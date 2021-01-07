@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ReactFrontendGraphAPI/static/css/main.38768aa2.chunk.css",
+    "main.js": "/ReactFrontendGraphAPI/static/js/main.75e029f8.chunk.js",
+    "main.js.map": "/ReactFrontendGraphAPI/static/js/main.75e029f8.chunk.js.map",
+    "runtime-main.js": "/ReactFrontendGraphAPI/static/js/runtime-main.291858ee.js",
+    "runtime-main.js.map": "/ReactFrontendGraphAPI/static/js/runtime-main.291858ee.js.map",
+    "static/js/2.28ab793a.chunk.js": "/ReactFrontendGraphAPI/static/js/2.28ab793a.chunk.js",
+    "static/js/2.28ab793a.chunk.js.map": "/ReactFrontendGraphAPI/static/js/2.28ab793a.chunk.js.map",
+    "index.html": "/ReactFrontendGraphAPI/index.html",
+    "static/css/main.38768aa2.chunk.css.map": "/ReactFrontendGraphAPI/static/css/main.38768aa2.chunk.css.map",
+    "static/js/2.28ab793a.chunk.js.LICENSE.txt": "/ReactFrontendGraphAPI/static/js/2.28ab793a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.291858ee.js",
+    "static/js/2.28ab793a.chunk.js",
+    "static/css/main.38768aa2.chunk.css",
+    "static/js/main.75e029f8.chunk.js"
+  ]
+}
